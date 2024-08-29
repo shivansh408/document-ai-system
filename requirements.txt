@@ -1,0 +1,11 @@
+# Hugging Face Transformers and Datasets
+transformers
+datasets
+pymupdf
+tokenizers
+torch
+pdfplumber
+Pillow
+pandas
+openpyxl
+huggingface-hub
